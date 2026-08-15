@@ -26,4 +26,4 @@ Professional experience in sales analytics, business intelligence, and energy-ma
 ## Contact
 
 Email: mert.can.akdogan@outlook.com  
-LinkedIn: [https://www.linkedin.com/in/mertcanakdogan/]
+LinkedIn: [Mert Can Akdoğan](https://www.linkedin.com/in/mertcanakdogan/)
