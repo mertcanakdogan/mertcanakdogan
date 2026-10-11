@@ -1,6 +1,7 @@
 # Mert Can Akdoğan
 
-**Sales & Pricing Analytics** · Assistant Sales Analytics Specialist at İpragaz (SHV Energy), Istanbul
+**Sales Analytics** · Pricing · Margin · Market Share  
+Assistant Sales Analytics Specialist at İpragaz (SHV Energy), Istanbul
 
 I turn SAP and market data into pricing, margin and market-share decisions. With a background in Economics, I focus on what drives the numbers: price, volume and mix. I am building my career toward strategic pricing and revenue management.
 
