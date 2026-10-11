@@ -1,27 +1,35 @@
 # Mert Can Akdoğan
 
-Data & Commercial Analytics professional with a background in Economics, focused on turning complex business and market data into decision-ready insights.
+**Sales & Pricing Analytics** · Assistant Sales Analytics Specialist at İpragaz (SHV Energy), Istanbul
 
-I work across **Python, SQL, Power BI, forecasting, profitability analysis, market intelligence, and commercial performance analytics**, with particular experience in the energy sector.
+I turn SAP and market data into pricing, margin and market-share decisions. With a background in Economics, I focus on what drives the numbers: price, volume and mix. I am building my career toward strategic pricing and revenue management.
+
+## What I Work On
+
+- **Margin & profitability:** monthly unit-margin analysis, price-to-margin waterfalls from SAP BW, and a province-level sales and profitability dashboard prototype in Power BI
+- **Market share:** province-level market-share analysis with volume-scaled significance thresholds, plus monthly competitor and market-share reporting
+- **Electricity portfolio:** a meter-level repricing framework (margin floors, keep / reprice / exit) and hourly demand forecasting in Python
+
+The projects below are built on fully synthetic data. They contain no employer or customer data.
 
 ## Featured Projects
 
-### [Energy Demand Forecasting Pipeline](https://github.com/mertcanakdogan/energy-demand-forecasting-pipeline)
-Production-style electricity demand forecasting with rolling backtesting, per-meter model selection, anomaly detection, testing, and CI.
-
 ### [Energy Market Intelligence Dashboard](https://github.com/mertcanakdogan/energy-market-intelligence-dashboard)
-SQL-led commercial analytics with DuckDB, profitability analysis, competitor intelligence, regional opportunity scoring, and Streamlit.
+SQL-led commercial analytics with DuckDB and Streamlit: market share, competitor momentum, gross-margin trends, a price / volume revenue bridge and pricing what-if scenarios.
+
+### [Energy Demand Forecasting Pipeline](https://github.com/mertcanakdogan/energy-demand-forecasting-pipeline)
+Electricity demand forecasting with rolling backtesting, per-meter model selection (Holt-Winters, SARIMAX), anomaly detection, automated tests and CI.
 
 ## Core Stack
 
-**Analytics:** Python · pandas · SQL · PostgreSQL · DuckDB · Power BI · DAX · Power Query  
-**Methods:** Forecasting · Time Series · Commercial Analytics · Profitability · Market Share · KPI Design · Scenario Analysis  
-**Engineering:** Git · GitHub Actions · pytest · ETL · Data Validation
+**Analytics:** Excel · Power BI · SQL (DuckDB, PostgreSQL) · Python (pandas, statsmodels) · SAP BW / Analysis for Office  
+**Methods:** Pricing & Margin Analysis · Profitability · Market Share · Forecasting · Time Series · Scenario Analysis  
+**Engineering:** Git · GitHub Actions · pytest · Data Validation
 
 ## Background
 
-BSc Economics — Istanbul Bilgi University  
-Professional experience in sales analytics, business intelligence, and energy-market analytics.
+Bachelor's in Economics (100% English, full scholarship) · Istanbul Bilgi University, 2024  
+Certificates: Intermediate SQL and Excel Fundamentals (DataCamp) · Introduction to Data Analytics (IBM)
 
 ## Contact
 
