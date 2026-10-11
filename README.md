@@ -11,15 +11,17 @@ I turn SAP and market data into pricing, margin and market-share decisions. With
 - **Market share:** province-level market-share analysis with volume-scaled significance thresholds, plus monthly competitor and market-share reporting
 - **Electricity portfolio:** a meter-level repricing framework (margin floors, keep / reprice / exit) and hourly demand forecasting in Python
 
-The projects below are built on fully synthetic data. They contain no employer or customer data.
-
-## Featured Projects
+## Featured Project
 
 ### [Pricing & Revenue Analytics Case Study](https://github.com/mertcanakdogan/energy-market-intelligence-dashboard) · [Live app](https://tavra-energy-pricing.streamlit.app)
-Where does price leak between list and pocket price, and what is a price change worth? A fictional Turkish energy retailer (Tavra Energy) on synthetic data in TRY: price waterfall, PVM bridge, price elasticity recovered against a known truth, promotion impact (difference-in-differences) and a profit-maximising price recommendation. SQL (DuckDB), Python, Streamlit.
+How much of the list price does a company really keep, and which price step is worth taking? A fictional Turkish electricity retailer (Tavra Energy) on fully synthetic data in TRY:
 
-### [Energy Demand Forecasting Pipeline](https://github.com/mertcanakdogan/energy-demand-forecasting-pipeline)
-Electricity demand forecasting with rolling backtesting, per-meter model selection (Holt-Winters, SARIMAX), anomaly detection, automated tests and CI.
+- **Price leakage:** the company keeps 85.2% of the list price; 14.8% goes on discounts, rebates and the cost of serving customers.
+- **Revenue bridge:** revenue rose but gross profit fell, because unit costs rose faster than prices.
+- **Price elasticity and promotion impact:** estimated with regression and difference-in-differences, and checked against the true values built into the data.
+- **Price recommendation:** a 3.3% to 5.0% price step per segment, within margin and volume limits, worth +TRY 145.2m gross profit a year in the scenario.
+
+SQL (DuckDB) · Python · Streamlit · tests and CI. No employer or customer data.
 
 ## Core Stack
 
