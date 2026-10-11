@@ -15,8 +15,8 @@ The projects below are built on fully synthetic data. They contain no employer o
 
 ## Featured Projects
 
-### [Pricing & Revenue Analytics Case Study](https://github.com/mertcanakdogan/energy-market-intelligence-dashboard) · [Live app](https://tavra-enerji-fiyatlama.streamlit.app)
-Where does price leak between list and pocket price, and what is a price change worth? A fictional Turkish energy retailer on synthetic data (TL): price waterfall, PVM bridge, price elasticity recovered against a known truth, promotion impact (difference-in-differences) and a profit-maximising price recommendation. SQL (DuckDB), Python, Streamlit.
+### [Pricing & Revenue Analytics Case Study](https://github.com/mertcanakdogan/energy-market-intelligence-dashboard) · [Live app](https://tavra-energy-pricing.streamlit.app)
+Where does price leak between list and pocket price, and what is a price change worth? A fictional Turkish energy retailer (Tavra Energy) on synthetic data in TRY: price waterfall, PVM bridge, price elasticity recovered against a known truth, promotion impact (difference-in-differences) and a profit-maximising price recommendation. SQL (DuckDB), Python, Streamlit.
 
 ### [Energy Demand Forecasting Pipeline](https://github.com/mertcanakdogan/energy-demand-forecasting-pipeline)
 Electricity demand forecasting with rolling backtesting, per-meter model selection (Holt-Winters, SARIMAX), anomaly detection, automated tests and CI.
