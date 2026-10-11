@@ -15,8 +15,8 @@ The projects below are built on fully synthetic data. They contain no employer o
 
 ## Featured Projects
 
-### [Energy Market Intelligence Dashboard](https://github.com/mertcanakdogan/energy-market-intelligence-dashboard)
-SQL-led commercial analytics with DuckDB and Streamlit: market share, competitor momentum, gross-margin trends, a price / volume revenue bridge and pricing what-if scenarios.
+### [Pricing & Revenue Analytics Case Study](https://github.com/mertcanakdogan/energy-market-intelligence-dashboard) · [Live app](https://tavra-enerji-fiyatlama.streamlit.app)
+Where does price leak between list and pocket price, and what is a price change worth? A fictional Turkish energy retailer on synthetic data (TL): price waterfall, PVM bridge, price elasticity recovered against a known truth, promotion impact (difference-in-differences) and a profit-maximising price recommendation. SQL (DuckDB), Python, Streamlit.
 
 ### [Energy Demand Forecasting Pipeline](https://github.com/mertcanakdogan/energy-demand-forecasting-pipeline)
 Electricity demand forecasting with rolling backtesting, per-meter model selection (Holt-Winters, SARIMAX), anomaly detection, automated tests and CI.
@@ -24,7 +24,7 @@ Electricity demand forecasting with rolling backtesting, per-meter model selecti
 ## Core Stack
 
 **Analytics:** Excel · Power BI · SQL (DuckDB, PostgreSQL) · Python (pandas, statsmodels) · SAP BW / Analysis for Office  
-**Methods:** Pricing & Margin Analysis · Profitability · Market Share · Forecasting · Time Series · Scenario Analysis  
+**Methods:** Pricing & Margin Analysis · Price Elasticity · PVM · Profitability · Market Share · Forecasting · Time Series · Scenario Analysis  
 **Engineering:** Git · GitHub Actions · pytest · Data Validation
 
 ## Background
